@@ -1,8 +1,6 @@
 {
- "theme_color": "#FFFFFF",
- "display": "fullscreen",
  "start_url": "index.htm?installed=true",
- "background_color": "#FFFFFF",
+ "display": "fullscreen",
  "icons": [
   {
    "sizes": "150x150",
@@ -40,5 +38,7 @@
    "src": "misc/icon64.png"
   }
  ],
- "name": "Energisa"
+ "background_color": "#FFFFFF",
+ "name": "Energisa",
+ "theme_color": "#FFFFFF"
 }
